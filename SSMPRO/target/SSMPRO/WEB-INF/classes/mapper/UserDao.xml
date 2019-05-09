@@ -8,4 +8,12 @@
         SELECT * FROM user WHERE id = #{id}
     </select>
 
+    <select id="selectUserByUsername" resultType="User">
+        SELECT * FROM user WHERE username = #{username};
+    </select>
+
+    <select id="checkUserByUsername" resultType="User">
+        SELECT * FROM user WHERE username = #{username} LIMIT 0,1;
+    </select>
+
 </mapper>

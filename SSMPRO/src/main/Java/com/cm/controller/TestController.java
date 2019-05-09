@@ -3,7 +3,6 @@ package com.cm.controller;
 import com.cm.entity.User;
 import com.cm.service.IUserService;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.huaban.analysis.jieba.JiebaSegmenter;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
@@ -11,9 +10,7 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 
 @CrossOrigin(origins = "*",maxAge = 3600)

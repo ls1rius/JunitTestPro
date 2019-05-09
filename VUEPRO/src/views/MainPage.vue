@@ -12,11 +12,20 @@
                 <el-step title="步骤 3"></el-step>
                 <el-step title="步骤 4"></el-step>
                 <el-step title="步骤 5"></el-step>
-
             </el-steps>
         </div>
 
         <div id="content-box">
+
+            <div id="input-username" class="input-box">
+                <el-input v-model="inputUsername" placeholder="请输入用户名" style="width:300px;"></el-input>
+                <el-button type="primary" 
+                plain
+                style="margin-left:30px;"
+                @click="checkUserByUsername(inputUsername)">
+                提交
+                </el-button>
+            </div>
 
             <div id="select-one" class="select-box">
                 <el-select v-model="valueOne" placeholder="请选择" style="width:300px;">
@@ -75,14 +84,6 @@
                 </el-button>
             </div>
 
-            <div id="input-two" class="input-box">
-                <el-input v-model="inputTwo" placeholder="请输入内容" style="width:300px;"></el-input>
-                <el-button type="primary" 
-                plain
-                style="margin-left:30px;">
-                提交
-                </el-button>
-            </div>
 
         </div>
         
@@ -96,8 +97,6 @@ export default {
     data () {
         return {
             msg: 'Welcome to Your Vue.js App',
-            checkedSelectOne: false,
-            checkedInputOne: false,
             optionsOne: [
                 {
                     value: '选项1',
@@ -167,9 +166,25 @@ export default {
             valueOne: '',
             valueTwo: '',
             valueThree: '',
+            inputUsername: '',
             inputOne: '',
-            inputTwo: ''
-
+            curStep: 0
+        }
+    },
+    methods: {
+        checkUserByUsername(username) {
+            console.log(username);
+            let info = {
+                "username":username
+            }
+            let url = "http://localhost:8079/user/checkUserByUsername";
+            this.axios.post(url,info)
+            .then(function (response) {
+                console.log(response.data);
+            })
+            .catch(function (error) {
+                console.log(error);
+            })
         }
     }
 }
