@@ -29,4 +29,8 @@ public class User {
         this.username = username;
     }
 
+    public String toString(){
+        return super.toString();
+    }
+
 }

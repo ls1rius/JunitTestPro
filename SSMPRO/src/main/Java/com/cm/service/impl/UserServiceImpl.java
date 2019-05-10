@@ -3,7 +3,6 @@ package com.cm.service.impl;
 import com.cm.dao.IUserDao;
 import com.cm.entity.User;
 import com.cm.service.IUserService;
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Service;
 
