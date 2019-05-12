@@ -26,7 +26,8 @@ public class UserController {
         String username = (String)mp.get("username");
         HashMap<String, Object>ans = new HashMap<>();
         User res = userService.checkUserByUsername(username);
-        ans.put("username",username);
+        ans.put("userId",res==null?"Unknown":res.getId());
+        ans.put("username",res==null?"Unknown":res.getUsername());
         ans.put("isExist",res==null?false:true);
         return ans;
     }
