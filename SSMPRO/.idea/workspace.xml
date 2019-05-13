@@ -7,55 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5f943f0-6573-4c69-938e-14682a3a2ee3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/com/cm/common/FilesMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/com/cm/common/SystemMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/com/cm/common/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/com/cm/controller/TestController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/com/cm/controller/TestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/com/cm/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/com/cm/dao/IUserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/com/cm/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/com/cm/service/IUserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/com/cm/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/logback(1).xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/mapper/UserDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/spring-mvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/spring-mybatis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/c3p0-0.9.5.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/commons-lang3-3.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/fastjson-1.1.41.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/jackson-annotations-2.8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/jackson-core-2.8.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/jackson-databind-2.8.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/javaee-api-7.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/javax.mail-1.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/jieba-analysis-1.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/logback-classic-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/logback-core-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/mchange-commons-java-0.2.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/mybatis-3.4.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/mybatis-spring-1.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/mysql-connector-java-8.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/protobuf-java-2.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/spring-aop-4.3.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/spring-beans-4.3.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/spring-context-4.3.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/spring-core-4.3.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/spring-expression-4.3.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/spring-jdbc-4.3.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/spring-test-4.3.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/spring-tx-4.3.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/spring-web-4.3.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/lib/spring-webmvc-4.3.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CrfPro/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/com/cm/JuintTest/OrderControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/com/cm/JuintTest/OrderControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cm/JuintTest/OrderControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cm/JuintTest/OrderControllerTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -93,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Java/com/cm/service/IUserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="350">
               <caret line="14" column="28" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -131,17 +85,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/Java/com/cm/JuintTest/OrderControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            <state relative-caret-position="496">
+              <caret line="28" column="49" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="35">
+              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -174,6 +131,7 @@
       <find>CrfPro</find>
       <find>SSMPRO</find>
       <find>Crf</find>
+      <find>junit</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -195,7 +153,6 @@
         <option value="$PROJECT_DIR$/src/main/Java/com/cm/commonmethod/SystemMethod.java" />
         <option value="$PROJECT_DIR$/src/main/Java/com/cm/common/TestFiles.java" />
         <option value="$PROJECT_DIR$/src/main/Java/com/cm/common/Test.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.xhtml" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
@@ -208,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/mapper/UserDao.xml" />
         <option value="$PROJECT_DIR$/src/main/Java/com/cm/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/Java/com/cm/JuintTest/OrderControllerTest.java" />
       </list>
     </option>
@@ -380,7 +338,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557710957412" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557712705413" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Project" />
@@ -411,7 +369,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OrderControllerTest.testFinishAnOrder">
+  <component name="RunManager" selected="JUnit.OrderControllerTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -420,6 +378,21 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSMPRO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cm.JuintTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cm.JuintTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cm.JuintTest.OrderControllerTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -642,6 +615,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OrderControllerTest" />
         <item itemvalue="JUnit.OrderControllerTest.testFinishAnOrder" />
         <item itemvalue="JUnit.OrderControllerTest.testCreateAnOrder" />
       </list>
@@ -676,23 +650,11 @@
       <workItem from="1556284488022" duration="12000" />
       <workItem from="1557390397890" duration="1147000" />
       <workItem from="1557391793288" duration="3088000" />
-      <workItem from="1557709796266" duration="1117000" />
+      <workItem from="1557709796266" duration="3492000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IUserDaoTest_testSelectUser - 2019.03.04 at 17h 58m 53s.xml">
-      <configuration name="IUserDaoTest.testSelectUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IUserDaoTest_testSelectUser - 2019.03.04 at 18h 00m 17s.xml">
-      <configuration name="IUserDaoTest.testSelectUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OrderControllerTest_testFinishAnOrder - 2019.05.13 at 09h 14m 28s.xml">
-      <configuration name="OrderControllerTest.testFinishAnOrder" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OrderControllerTest_testFinishAnOrder - 2019.05.13 at 09h 15m 28s.xml">
-      <configuration name="OrderControllerTest.testFinishAnOrder" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OrderControllerTest_testFinishAnOrder - 2019.05.13 at 09h 15m 42s.xml">
       <configuration name="OrderControllerTest.testFinishAnOrder" configurationId="JUnit" />
     </history-entry>
@@ -711,14 +673,26 @@
     <history-entry file="OrderControllerTest_testFinishAnOrder - 2019.05.13 at 09h 23m 09s.xml">
       <configuration name="OrderControllerTest.testFinishAnOrder" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="OrderControllerTest_testFinishAnOrder - 2019.05.13 at 09h 29m 19s.xml">
+      <configuration name="OrderControllerTest.testFinishAnOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderControllerTest - 2019.05.13 at 09h 54m 50s.xml">
+      <configuration name="OrderControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderControllerTest_testFinishAnOrder - 2019.05.13 at 09h 55m 43s.xml">
+      <configuration name="OrderControllerTest.testFinishAnOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderControllerTest - 2019.05.13 at 09h 56m 15s.xml">
+      <configuration name="OrderControllerTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34672000" />
+    <option name="totallyTimeSpent" value="37047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2826087" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2826087" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -728,7 +702,7 @@
       <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3033954" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3033954" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -778,13 +752,6 @@
             <element signature="e#86#87#0" expanded="true" />
             <element signature="e#128#129#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -860,16 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/cm/service/IUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Java/com/cm/dao/IUserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -877,13 +834,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -921,10 +871,37 @@
     <entry file="file://$PROJECT_DIR$/target/CrfPro/WEB-INF/classes/logback(1).xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/cm/JuintTest/OrderControllerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/cm/service/IUserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/cm/JuintTest/OrderControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
