@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- 设置为IOrderDao接口方法提供sql语句配置 -->
+<mapper namespace="com.cm.dao.IOrderDao">
+    <insert id="createAnOrder" parameterType="Order">
+        INSERT INTO `order`(id,owner_id,product_id,product_count) VALUES(null,#{order.ownerId},#{order.productId},#{order.productCount});
+    </insert>
+    <select id="getInsertOrderId" resultType="Integer">
+        SELECT LAST_INSERT_ID();
+    </select>
+
+    <update id="finishAnOrder">
+        UPDATE `order` SET finish_user_id = #{finishUserId}, is_finished = 1 WHERE id = #{orderId};
+    </update>
+</mapper>

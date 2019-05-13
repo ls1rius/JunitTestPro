@@ -18,8 +18,7 @@ public class OrderControllerTest {
 
     @Test
     public void testCreateAnOrder(){
-        Order order = new Order(1,"root",1,"包子",66);
-        orderService.createAnOrder(order);
+        Order order = new Order(1,"root",1,"包子",999);
         Assert.assertEquals("创建订单部分测试失败","success", orderService.createAnOrder(order));
     }
 
